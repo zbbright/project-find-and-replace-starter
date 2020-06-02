@@ -3,7 +3,7 @@
 
 const findInput = document.querySelector(".find-input")
 const replaceInput = document.querySelector(".replace-input")
-const replaceButton = document.querySelector(".replace-all-button")
+const replaceAllButton = document.querySelector(".replace-all-button")
 
 // The following variable holds your OUTER ARRAY of row elements.
 // Later you will need an OUTER LOOP to loop over the individual elements within
