@@ -62,6 +62,6 @@ button {
     background: lightgray;
 }
 
-.cell:hover {
-    background: lightsteelblue !important;
+.row .cell:hover {
+    background: lightsteelblue;
 }
